@@ -1,0 +1,132 @@
+{
+  "personal": {
+    "name": "Edress Safi",
+    "title": "Full Stack Developer & Software Engineer",
+    "tagline": "Building innovative web solutions with modern technologies",
+    "email": "mohammadedresssafi@gmail.com",
+    "phone": "+93 777190010",
+    "location": "Kabul, Afghanistan",
+    "bio": "I'm a passionate full-stack developer with 5+ years of experience creating scalable web applications. I love turning complex problems into simple, beautiful, and intuitive solutions. When I'm not coding, you'll find me exploring new technologies or contributing to open-source projects.",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face",
+    "resume": "/resume.pdf"
+  },
+  "social": {
+    "github": "https://github.com/cyber0x3a",
+    "linkedin": "https://linkedin.com/in/edress-safi-582190248",
+    "twitter": "https://x.com/404",
+    "website": "https://github.com/cyber0x3a"
+  },
+  "skills": {
+    "frontend": [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "Tailwind CSS",
+      "Bootstrap"
+    ],
+    "backend": [
+      "Node.js",
+      "Python",
+      "Express.js",
+      "Django",
+      "GraphQL",
+      "RESTful APIs"
+    ],
+    "databases": ["MongoDB", "PostgreSQL", "Redis", "MySQL"],
+    "tools": ["Docker", "Git", "Vercel", "Jest", "Webpack", "Linux"]
+  },
+  "experience": [
+    {
+      "id": 1,
+      "company": "TechCorp Solutions",
+      "position": "Senior Full Stack Developer",
+      "duration": "2022 - Present",
+      "location": "San Francisco, CA",
+      "description": "Lead development of enterprise-level web applications using React, Node.js, and AWS. Mentored junior developers and implemented CI/CD pipelines.",
+      "achievements": [
+        "Reduced application load time by 40% through optimization",
+        "Led a team of 5 developers on multiple projects",
+        "Implemented microservices architecture"
+      ]
+    },
+    {
+      "id": 2,
+      "company": "StartupXYZ",
+      "position": "Full Stack Developer",
+      "duration": "2020 - 2022",
+      "location": "Remote",
+      "description": "Developed MVP for a SaaS platform using React, Python, and PostgreSQL. Collaborated closely with design and product teams.",
+      "achievements": [
+        "Built the entire frontend from scratch",
+        "Designed and implemented RESTful APIs",
+        "Achieved 99.9% uptime for production applications"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "EcommercePro",
+      "description": "A complete e-commerce solution with admin dashboard, payment integration, and real-time inventory management.",
+      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&h=600&fit=crop",
+      "technologies": ["React", "Node.js", "MongoDB", "Stripe", "AWS"],
+      "github": "https://github.com/alexmorgan/ecommercepro",
+      "demo": "https://ecommercepro.demo.com",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "TaskFlow",
+      "description": "Project management tool with real-time collaboration, file sharing, and advanced reporting features.",
+      "image": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=800&h=600&fit=crop",
+      "technologies": ["Next.js", "TypeScript", "PostgreSQL", "Socket.io"],
+      "github": "https://github.com/alexmorgan/taskflow",
+      "demo": "https://taskflow.demo.com",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "WeatherApp",
+      "description": "Beautiful weather application with location-based forecasts, interactive maps, and weather alerts.",
+      "image": "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=800&h=600&fit=crop",
+      "technologies": ["Vue.js", "Express.js", "OpenWeather API", "Chart.js"],
+      "github": "https://github.com/alexmorgan/weatherapp",
+      "demo": "https://weatherapp.demo.com",
+      "featured": false
+    },
+    {
+      "id": 4,
+      "title": "BlogCMS",
+      "description": "Content management system with markdown support, SEO optimization, and multi-author collaboration.",
+      "image": "https://images.unsplash.com/photo-1486312338219-ce68e2c6f44d?w=800&h=600&fit=crop",
+      "technologies": ["Django", "React", "PostgreSQL", "Redis"],
+      "github": "https://github.com/alexmorgan/blogcms",
+      "demo": "https://blogcms.demo.com",
+      "featured": false
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "position": "Product Manager at TechCorp",
+      "content": "John consistently delivers high-quality code and has excellent problem-solving skills. His ability to translate complex requirements into elegant solutions is outstanding.",
+      "avatar": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?w=100&h=100&fit=crop&crop=face"
+    },
+    {
+      "id": 2,
+      "name": "Michael Chen",
+      "position": "CTO at StartupXYZ",
+      "content": "Working with Alex was a game-changer for our startup. He built our entire platform from the ground up and delivered beyond our expectations.",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face"
+    }
+  ],
+  "contact": {
+    "title": "Let's Work Together",
+    "subtitle": "Have a project in mind? Let's discuss how we can bring your ideas to life.",
+    "cta": "Get In Touch"
+  }
+}
